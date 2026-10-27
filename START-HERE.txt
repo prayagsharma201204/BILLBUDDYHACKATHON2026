@@ -1,0 +1,10 @@
+PAISATRACK FULL-STACK SETUP
+
+1. Install Java 17+ and Maven 3.9+.
+2. Install/start MySQL Server. MySQL Workbench alone is not the server.
+3. In MySQL Workbench, execute database/setup.sql.
+4. Open a terminal in the backend folder and configure DB_USERNAME and DB_PASSWORD if needed.
+5. Run: mvn spring-boot:run
+6. Open http://localhost:8080
+
+Read README.md for detailed setup and troubleshooting.
