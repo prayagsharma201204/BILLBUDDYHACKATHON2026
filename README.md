@@ -1,4 +1,4 @@
-# PaisaTrack — Full-stack version
+# BILLBUDDY /PaisaTrack — Full-stack version
 
 This package keeps the supplied HTML/CSS/JavaScript interface and adds a Java Spring Boot REST backend with MySQL persistence. Transactions, split bills, and settlement history are stored in MySQL. Browser localStorage remains a local cache/offline fallback.
 
